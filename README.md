@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @48h153k
-- 👀 I’m interested in Web Security
-- 🌱 I’m currently learning Web development & Its Security
+- 👋 Hi, I’m Abhisek
+- 👨‍💻 I am Security Analyst.
+- 👀 I’m interested in Web Security.
+- 🌱 I’m currently learning Web development & Its Security.
 - 💞️ I’m looking to collaborate on security project.
 
 <!---
